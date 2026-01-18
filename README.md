@@ -6,7 +6,7 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green.svg)](https://openai.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Demo](demo-screenshot.png) <!-- Screenshot 2026-01-18 at 7.51.50 PM.png-->
+![Demo]((https://github.com/M7md3llam/arabic-rag-system/blob/main/Screenshot%202026-01-18%20at%207.51.50%E2%80%AFPM.png)) <!-- (https://github.com/M7md3llam/arabic-rag-system/blob/main/Screenshot%202026-01-18%20at%207.51.50%E2%80%AFPM.png)-->
 
 ## 🎯 Overview
 
