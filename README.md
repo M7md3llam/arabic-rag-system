@@ -6,7 +6,7 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green.svg)](https://openai.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Demo](demo-screenshot.png) <!-- Add your screenshot -->
+![Demo](demo-screenshot.png) <!-- Screenshot 2026-01-18 at 7.51.50 PM.png-->
 
 ## 🎯 Overview
 
