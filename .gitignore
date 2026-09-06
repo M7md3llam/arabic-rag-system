@@ -1,4 +1,6 @@
-/.DS_Store
-/.env
-/__pycache__
-/venv
+.DS_Store
+.env
+__pycache__/
+venv/
+.streamlit/
+:memory:.ses

@@ -2,15 +2,22 @@
 Data visualization module for generating tables and charts
 """
 import pandas as pd
-import matplotlib.pyplot as plt
+import os
+from pathlib import Path
+
+Path("/tmp/arabic-rag-matplotlib").mkdir(exist_ok=True)
+Path("/tmp/arabic-rag-cache").mkdir(exist_ok=True)
+os.environ.setdefault("MPLCONFIGDIR", "/tmp/arabic-rag-matplotlib")
+os.environ.setdefault("XDG_CACHE_HOME", "/tmp/arabic-rag-cache")
+
 import matplotlib
 matplotlib.use('Agg')  # Use non-interactive backend
+import matplotlib.pyplot as plt
 import io
 import base64
 from typing import List, Dict, Optional
 import json
 from openai import OpenAI
-import os
 from dotenv import load_dotenv
 
 load_dotenv()
